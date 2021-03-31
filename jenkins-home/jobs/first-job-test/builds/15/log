@@ -1,7 +1,0 @@
-Started by user [8mha:////4OxX/w+QwDg7NODtHxmyXO7eHMYyl1AtCXVdRBiWHDxxAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZu/dLi1CL94ozMskQAHG6HvMAAAAA=[0mSP
-Running as SYSTEM
-Building in workspace /var/jenkins_home/workspace/first-job-test
-[first-job-test] $ /bin/sh -xe /tmp/jenkins1541869396974531739.sh
-+ /script.sh Kartik Delhi true
-hello Kartik, welcome to Delhi
-Finished: SUCCESS
