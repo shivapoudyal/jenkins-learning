@@ -1,0 +1,8 @@
+Started by user [8mha:////4OxX/w+QwDg7NODtHxmyXO7eHMYyl1AtCXVdRBiWHDxxAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZu/dLi1CL94ozMskQAHG6HvMAAAAA=[0mSP
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/mysql-backup-to-s3
+[mysql-backup-to-s3] $ /bin/sh -xe /tmp/jenkins6794096130607552097.sh
++ /home/user01/Desktop/jenkins/script-test/sql-backup.sh root tradeindia localhost localhost test shiva-sql-backup-bucket
+/tmp/jenkins6794096130607552097.sh: 2: /tmp/jenkins6794096130607552097.sh: /home/user01/Desktop/jenkins/script-test/sql-backup.sh: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
